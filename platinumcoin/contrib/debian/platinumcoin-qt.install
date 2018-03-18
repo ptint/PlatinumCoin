@@ -1,0 +1,6 @@
+platinumcoin-qt usr/bin
+share/pixmaps/platinumcoin32.xpm usr/share/pixmaps
+share/pixmaps/platinumcoin16.xpm usr/share/pixmaps
+share/pixmaps/platinumcoin128.png usr/share/pixmaps
+debian/platinumcoin-qt.desktop usr/share/applications
+debian/platinumcoin-qt.protocol usr/share/kde4/services/

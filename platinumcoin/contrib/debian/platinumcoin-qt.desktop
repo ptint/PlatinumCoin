@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Platinumcoin
+Comment=Platinumcoin P2P Cryptocurrency
+Comment[fr]=Platinumcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Platinumcoin, eşten eşe kriptografik sanal para birimi
+Exec=platinumcoin-qt %u
+Terminal=false
+Type=Application
+Icon=platinumcoin128
+MimeType=x-scheme-handler/platinumcoin;
+Categories=Office;Finance;
